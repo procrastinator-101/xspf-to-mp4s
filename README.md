@@ -102,4 +102,4 @@ Output:
 
 ## License
 
-This project is licensed under the MIT License - see the [https://github.com/procrastinator-101/xspf-to-mp4s/blob/main/LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/procrastinator-101/xspf-to-mp4s/blob/master/License) file for details.
